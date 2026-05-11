@@ -32,6 +32,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/faris-ibrahim-456ba22bb" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faris-ibrahim2004&show_icons=true&theme=dracula&hide_border=true" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-ibrahim2004&layout=compact&theme=dracula&hide_border=true" height="150" />
+</div>
 
 ###
 <div align="center">
