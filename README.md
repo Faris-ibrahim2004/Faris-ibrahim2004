@@ -7,6 +7,16 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
