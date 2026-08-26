@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@main
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           username: Faris-ibrahim2004
           theme: dracula
